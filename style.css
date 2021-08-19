@@ -1,0 +1,26 @@
+img{
+    width:317px;
+    height:260px;
+    border: dashed 6px green;
+}
+body{
+    background-color:beige;
+    text-align:center;
+}
+h1{
+    color:cornflowerblue;
+}
+h2{
+    color:cornflowerblue;
+}
+p{
+    color:firebrick;
+}
+.line{
+    height:2px;
+    width:7px;
+    color:black
+}
+.menu{
+    list-style: none;
+}
